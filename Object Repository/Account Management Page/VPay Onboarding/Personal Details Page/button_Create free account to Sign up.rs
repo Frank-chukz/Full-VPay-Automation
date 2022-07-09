@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Create free account to Sign up</name>
+   <tag></tag>
+   <elementGuidId>c8c5d79b-5e13-4a70-a0f6-2416172743dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.app-button.fw500.header-account-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6ad101c0-02bc-42ca-ba8b-6a83a75375d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-button fw500 header-account-button</value>
+      <webElementGuid>a0c84bb6-a734-493e-b1ab-83f32bcb45b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7b3143d3-4ae0-41c7-888a-11f49c9532fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create free account</value>
+      <webElementGuid>3398e71e-9c6d-45c4-b0d6-2e4d896c199a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;p-relative&quot;]/div[@class=&quot;full-height&quot;]/div[@class=&quot;full-height full-width&quot;]/div[@class=&quot;gradient-header&quot;]/div[@class=&quot;body-header-padding container d-flex align-center&quot;]/div[@class=&quot;d-flex flex-vertical&quot;]/div[1]/div[@class=&quot;d-flex header-action align-center&quot;]/button[@class=&quot;app-button fw500 header-account-button&quot;]</value>
+      <webElementGuid>7f7d00dc-4b37-47d6-b642-7ff2fc86c709</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>cee1671d-f72c-4502-9072-ff08b04f4a6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div[3]/button</value>
+      <webElementGuid>fed85988-76ca-42f4-bd8b-097f7e65d015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Started'])[1]/following::button[2]</value>
+      <webElementGuid>584b6c7a-807d-468b-9bfc-731cda825d5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get the App'])[1]/preceding::button[1]</value>
+      <webElementGuid>80f82585-0ffe-4260-8815-e23c4a7e98a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VPay is about more than Selling'])[1]/preceding::button[2]</value>
+      <webElementGuid>d3983199-4636-47e2-b265-0be01011d345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create free account']/parent::*</value>
+      <webElementGuid>9b7d264a-d6f7-4057-bfd4-1fa7d749e364</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>d0e60ccb-e328-40c1-add5-097ba10a12f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Create free account' or . = 'Create free account')]</value>
+      <webElementGuid>614cd722-4632-4390-a3a6-b55ab3361be5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

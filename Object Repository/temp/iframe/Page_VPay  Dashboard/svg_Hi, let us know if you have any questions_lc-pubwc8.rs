@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Hi, let us know if you have any questions_lc-pubwc8</name>
+   <tag></tag>
+   <elementGuidId>166ec2f9-ce56-4dc8-a187-c06c30fdf1ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi, let us know if you have any questions.'])[1]/preceding::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.lc-pubwc8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>c6363de9-9f11-4b57-8d93-b6ab2dd0c5ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>inherit</value>
+      <webElementGuid>ace45c60-1bc6-4edb-9459-9560f1ac10fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 32 32</value>
+      <webElementGuid>d4c491c7-8c44-4288-9401-0307cc77b030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>9f07b457-bab4-4fa7-a06a-151575109374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lc-pubwc8</value>
+      <webElementGuid>14b72ff7-7784-486f-bb35-cba3470a3123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widget-global-v8wetwldmkq&quot;)/div[@class=&quot;lc-o3p3tk eqd5v0k0 lc-8lt43s-appear-done lc-8lt43s-enter-done&quot;]/div[@class=&quot;lc-1aasxu6 ek650k30&quot;]/div[@class=&quot;lc-1g9ek8d e108e6fy0&quot;]/div[@class=&quot;lc-1sowxkg efsb37y0 lc-154f0dl-enter-done&quot;]/div[@class=&quot;lc-bubhx7 e108e6fy0&quot;]/button[@class=&quot;e241ssi0 lc-ip9mph e1m5b1js0&quot;]/svg[@class=&quot;lc-pubwc8&quot;]</value>
+      <webElementGuid>74e57195-e8bf-4d2a-8d64-03e2a6869b24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/temp/iframe/Page_VPay  Dashboard/iframe_concat(id(, , chat-widget, , ))_chat-widget</value>
+      <webElementGuid>2583f8c5-138c-4605-8de9-14fb44f4f9fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi, let us know if you have any questions.'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>d8da2744-ca10-4c0d-95f8-ae484098ca78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat now'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>78c7c549-8dde-4774-b6bf-a08320905332</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

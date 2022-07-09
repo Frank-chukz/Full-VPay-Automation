@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Referral</name>
+   <tag></tag>
+   <elementGuidId>cee05567-cd27-41e4-86de-806d1d796075</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='merchant-link-title font-size-17 ' and contains (text(),'Referral')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2a526fe0-2401-495d-86c5-1a83df54f498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>merchant-link-title font-size-17</value>
+      <webElementGuid>f119e0b9-eb6e-4d24-b47f-a05a3bcc747e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Referral</value>
+      <webElementGuid>e4c62a79-0593-41f6-a315-c1f354935391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;full-width dashboard-wrapper full-vh&quot;]/div[@class=&quot;no-mobile&quot;]/div[@class=&quot;p-relative d-flex merchant-nav-wrapper&quot;]/div[@class=&quot;d-flex flex-vertical j-space-between full-height&quot;]/div[@class=&quot;nav-links-wrapper&quot;]/div[7]/a[@class=&quot;merchant-link-item-wrapper fw400 d-flex align-center&quot;]/span[@class=&quot;merchant-link-title font-size-17&quot;]</value>
+      <webElementGuid>0fb104df-0423-4fdf-924e-e782787bbcd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div[7]/a/span[2]</value>
+      <webElementGuid>e06f1630-b215-4683-bbe0-d298ee66e04c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/following::span[2]</value>
+      <webElementGuid>5a380f78-411d-4342-b6c0-7452dd82e9a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cashpoint'])[1]/following::span[4]</value>
+      <webElementGuid>697e054c-caa4-4df9-bbb0-ffff84e8e5fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::span[2]</value>
+      <webElementGuid>9e4cda95-938b-4272-9bb0-0682ecb82afd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::span[3]</value>
+      <webElementGuid>271d3262-f028-4e3f-a42e-38699bbf639b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Referral']/parent::*</value>
+      <webElementGuid>6c85143e-5b51-4912-8f09-8a59d5a6a497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/a/span[2]</value>
+      <webElementGuid>bb9058ac-7c20-4a91-986b-4bfa9fd04542</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Referral' or . = 'Referral')]</value>
+      <webElementGuid>01a25d7d-8a51-48fc-aeb0-fb5814e1ec85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

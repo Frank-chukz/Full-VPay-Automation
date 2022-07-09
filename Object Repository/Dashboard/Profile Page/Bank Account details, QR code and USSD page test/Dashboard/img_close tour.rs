@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_close tour</name>
+   <tag></tag>
+   <elementGuidId>be27ea1b-b471-4e83-be1b-aad780bbad1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.c-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div[3]/div[2]/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>98ecb907-3682-4e9a-977c-f9d332e80c76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-pointer</value>
+      <webElementGuid>f70c6486-1157-4325-8353-9bdd3717ae2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/iconClose.71c67d5c.svg</value>
+      <webElementGuid>a057d5d4-c389-4137-a150-e0b9e849e1a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>close action</value>
+      <webElementGuid>047bd30e-2940-4f31-acdb-13ca2adee78a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;tour-active full-width dashboard-wrapper full-vh&quot;]/div[@class=&quot;p-relative fade-in dashboard-layout full-height&quot;]/div[@class=&quot;d-flex dashboard-header full-width&quot;]/div[1]/div[@class=&quot;d-flex no-mobile j-center align-center p-relative&quot;]/div[@class=&quot;p-relative z-index200 border-radius15&quot;]/div[@class=&quot;tour-triangle-right tour-content p-fixed&quot;]/div[@class=&quot;d-flex align-center j-space-between&quot;]/img[@class=&quot;c-pointer&quot;]</value>
+      <webElementGuid>cf7bcdf4-8e90-4578-bde8-9a78d62d845b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div[3]/div[2]/div/img</value>
+      <webElementGuid>4e66022c-034a-484a-b293-98b4a033a24c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='close action']</value>
+      <webElementGuid>72997b2c-3c8b-40fa-b569-0c8466ffa173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/img</value>
+      <webElementGuid>acd649ff-cc49-4c48-87fb-a98496ea6b5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/media/iconClose.71c67d5c.svg' and @alt = 'close action']</value>
+      <webElementGuid>478a4e31-a855-40d8-840e-996bb6620988</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

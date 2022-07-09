@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_toggle keep funds in wallet</name>
+   <tag></tag>
+   <elementGuidId>464d4780-b212-4a41-a765-768a9cc93ae3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='ant-switch-handle']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-switch-handle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8f3c008-c8de-4413-895c-d795877800d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-switch-handle</value>
+      <webElementGuid>7e95d2ea-5d1f-4c7d-8a15-1952fd787fdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-tabs-0-panel-Payout Accounts&quot;)/div[@class=&quot;full-height flex-vertical full-width d-flex align-center j-center&quot;]/div[@class=&quot;profile-wrapper fw400 primary-bg-color p-relative&quot;]/div[@class=&quot;full-width d-flex align-center&quot;]/button[@class=&quot;ant-switch ant-switch-checked&quot;]/div[@class=&quot;ant-switch-handle&quot;]</value>
+      <webElementGuid>20daabaa-691c-4b0e-9e6f-cc2cdd19c419</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-tabs-0-panel-Payout Accounts']/div/div[2]/div[5]/button/div</value>
+      <webElementGuid>ab7d5032-1298-4ecb-adca-f2369af7735c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button/div</value>
+      <webElementGuid>1da9fbb7-7ed1-46bb-8182-f65cbb3e589a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

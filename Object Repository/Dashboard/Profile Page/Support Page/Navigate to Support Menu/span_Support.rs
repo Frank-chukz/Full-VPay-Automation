@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Support</name>
+   <tag></tag>
+   <elementGuidId>e614b80a-1448-422a-9345-94f0e4af2f60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fw400.font-size-17.text-color</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='fw400 font-size-17 text-color' and contains(text(),'Support')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e761f3fd-843a-4d71-955b-fe1e1c827db4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw400 font-size-17 text-color</value>
+      <webElementGuid>a31966e7-64ee-4fe3-b160-44036938cefb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Support</value>
+      <webElementGuid>b72e2e51-6acd-4705-90bd-7e3cfbe50b7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;full-width dashboard-wrapper full-vh&quot;]/div[@class=&quot;p-relative fade-in dashboard-layout full-height&quot;]/div[@class=&quot;d-flex dashboard-header full-width&quot;]/div[1]/div[@class=&quot;d-flex no-mobile j-center align-center p-relative&quot;]/div[@class=&quot;p-absolute primary-bg-color drop-shadow&quot;]/div[@class=&quot;d-flex align-center c-pointer&quot;]/span[@class=&quot;fw400 font-size-17 text-color&quot;]</value>
+      <webElementGuid>9e3ba9cd-69ad-46ca-90ae-b06f8dc8b9f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div[4]/div[3]/span</value>
+      <webElementGuid>2be644d4-0c05-4967-abe1-5531fb64f470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Details'])[2]/following::span[1]</value>
+      <webElementGuid>29e09151-247a-417f-8819-240281c29be0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::span[1]</value>
+      <webElementGuid>fcb08bc0-b196-4bb0-aaf7-50088038e2d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/preceding::span[1]</value>
+      <webElementGuid>cdde1680-dc8f-4a1d-9164-06aca85f7811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₦29,939.43'])[1]/preceding::span[2]</value>
+      <webElementGuid>45aa53f1-9879-4c94-809a-4bfc68ad2390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Support']/parent::*</value>
+      <webElementGuid>ceef982c-75fd-4b16-bd65-d86cc727fbfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span</value>
+      <webElementGuid>2da46cb5-b87d-48f6-b8da-e1acdef41326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Support' or . = 'Support')]</value>
+      <webElementGuid>c22a33d5-1487-4a1a-8270-e4ff203abd72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

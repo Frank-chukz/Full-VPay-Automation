@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Compliance</name>
+   <tag></tag>
+   <elementGuidId>7d75baa9-eb08-40a3-82fd-e74bdb3d14cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'merchant-link-title font-size-17' and (text() = 'Compliance' or . = 'Compliance')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(text(),'Compliance')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.merchant-link-title.font-size-17</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ab4404b8-3b5f-49c2-bdd6-97a5c4b01878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>merchant-link-title font-size-17</value>
+      <webElementGuid>239e28e9-0d66-4923-8672-b6b86248768d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Compliance</value>
+      <webElementGuid>52c80edb-7411-4f1f-bbbc-3604b8f40922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;full-width dashboard-wrapper full-vh&quot;]/div[@class=&quot;no-mobile&quot;]/div[@class=&quot;p-relative d-flex merchant-nav-wrapper&quot;]/div[@class=&quot;d-flex flex-vertical j-space-between full-height&quot;]/div[@class=&quot;nav-links-wrapper&quot;]/div[3]/a[@class=&quot;merchant-link-item-wrapper fw400 d-flex align-center&quot;]/span[@class=&quot;merchant-link-title font-size-17&quot;]</value>
+      <webElementGuid>2ff091af-b100-4719-84a0-c5c93f91c621</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div[3]/a/span[2]</value>
+      <webElementGuid>d8343166-0814-47a9-87e0-1bd7055cc1bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Details'])[1]/following::span[2]</value>
+      <webElementGuid>d5d8d0b5-26a5-4384-8eb8-24a409b0710e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VFD MFB'])[1]/following::span[4]</value>
+      <webElementGuid>54494a7a-9104-4eb6-b0ae-e3811f2cab4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::span[2]</value>
+      <webElementGuid>3bd85aa0-7b79-4544-91fa-eb2290c92184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cashpoint'])[1]/preceding::span[4]</value>
+      <webElementGuid>1e614441-619c-4f75-bfae-b9379ae2f410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Compliance']/parent::*</value>
+      <webElementGuid>f835cbcd-ecd9-4103-9597-d1eb35bfd10a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span[2]</value>
+      <webElementGuid>4d59cb7f-b8f5-44a0-bfaf-0dda65d18567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Compliance' or . = 'Compliance')]</value>
+      <webElementGuid>ed13c55b-1afb-4a3f-b7da-e955f58eb0d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Close Document list page</name>
+   <tag></tag>
+   <elementGuidId>a1a63569-9b44-44a6-9f3e-d865f5e8475a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.unstyle-button.c-pointer.rounded-widget.text-center.text-white.container-size-small.d-flex.align-center.j-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5b451b1d-94f8-4729-93e1-2b2bf66be4e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>74099983-db91-439d-bb63-f459469e3935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>unstyle-button c-pointer rounded-widget text-center text-white container-size-small d-flex align-center j-center</value>
+      <webElementGuid>21c6e7dd-1e65-42fa-9233-f1c208610dbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;full-width dashboard-wrapper full-vh&quot;]/div[@class=&quot;p-relative fade-in dashboard-layout full-height&quot;]/div[@class=&quot;fade-in full-width content-wrapper&quot;]/div[@class=&quot;reg-container margin-auto&quot;]/div[@class=&quot;stepper-layout d-flex flex-vertical&quot;]/div[@class=&quot;form-content-stepper&quot;]/div[@class=&quot;reg-form-margin-top reg-stepper-padding border-radius5  app-padding-starter-tb form-padding-lr primary-bg-color d-flex flex-vertical align-center&quot;]/div[@class=&quot;d-flex flex-vertical full-width full-height&quot;]/div[@class=&quot;flex-one&quot;]/form[@class=&quot;account-detail&quot;]/div[@class=&quot;p-fixed full-height full-width popup&quot;]/div[@class=&quot;d-flex j-center&quot;]/div[@class=&quot;popup-content p-relative max-width-600&quot;]/div[@class=&quot;title-area d-flex align-center&quot;]/button[@class=&quot;unstyle-button c-pointer rounded-widget text-center text-white container-size-small d-flex align-center j-center&quot;]</value>
+      <webElementGuid>9674701a-f8b9-4cb0-bc20-43baaf78e8ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>0f4d691c-68ed-4cf1-a360-31ae28cc382a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[2]/div/div/div/form/div[12]/div/div/div/button</value>
+      <webElementGuid>cfdc29fd-73bf-4a7f-932a-63357b305249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compliance'])[2]/following::button[6]</value>
+      <webElementGuid>e168cf9e-e6f9-4ff4-b260-73068358e254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::button[6]</value>
+      <webElementGuid>19d89d8e-3ca6-4776-bc2a-b9f48ed8508a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Support'])[1]/preceding::button[1]</value>
+      <webElementGuid>0d4bea24-cc55-45f5-b69d-ba7e6e753d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[2]</value>
+      <webElementGuid>d219dc19-5c27-4dbb-abfa-ae4dbf590c90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div/div/button</value>
+      <webElementGuid>f3c64e2f-7237-4404-9b9b-27d2ac1905ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>d1f20705-4ee7-40d6-bbc9-305efb1e60af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

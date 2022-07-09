@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Retake Photo of yourseld holding Id card</name>
+   <tag></tag>
+   <elementGuidId>3db55a26-425d-4ec7-b265-959844345af1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.app-button.webcam-btn.fw500</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>56159c96-0b20-4fea-9b95-817f081306d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-button webcam-btn fw500</value>
+      <webElementGuid>e329fb67-53e7-419f-b3bb-fb2d60de11a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ddae87ea-7334-465e-a38e-43afd6a773aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Retake Photo</value>
+      <webElementGuid>8d23de45-e756-4226-8803-7ab4ee1706d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;full-width dashboard-wrapper full-vh&quot;]/div[@class=&quot;p-relative fade-in dashboard-layout full-height&quot;]/div[@class=&quot;fade-in full-width content-wrapper&quot;]/div[@class=&quot;reg-container margin-auto&quot;]/div[@class=&quot;stepper-layout d-flex flex-vertical&quot;]/div[@class=&quot;form-content-stepper&quot;]/div[@class=&quot;reg-form-margin-top reg-stepper-padding border-radius5  app-padding-starter-tb form-padding-lr primary-bg-color d-flex flex-vertical align-center&quot;]/div[@class=&quot;d-flex flex-vertical full-width full-height&quot;]/div[@class=&quot;flex-one&quot;]/form[@class=&quot;account-detail&quot;]/div[@class=&quot;p-fixed full-height full-width popup&quot;]/div[@class=&quot;d-flex j-center&quot;]/div[@class=&quot;popup-content p-relative max-width-600&quot;]/div[8]/div[1]/div[@class=&quot;webcam-container&quot;]/div[2]/div[@class=&quot;d-flex align-center&quot;]/button[@class=&quot;app-button webcam-btn fw500&quot;]</value>
+      <webElementGuid>cb51d563-4880-42f3-b8fe-d66be13fbf06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>7f6f2c6f-be24-4f28-8a86-01e4c407b2f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[2]/div/div/div/form/div[12]/div/div/div[8]/div/div[2]/div[2]/div[2]/button</value>
+      <webElementGuid>ffa129db-f2ee-45ce-bfa3-1e0d302e97e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selfie'])[1]/following::button[1]</value>
+      <webElementGuid>ea341dee-a388-4058-9186-f5512ac77379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compliance'])[2]/following::button[7]</value>
+      <webElementGuid>28879335-3944-4c89-9e93-6ee3878aa5c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload'])[1]/preceding::button[1]</value>
+      <webElementGuid>5279c850-7cb1-43d2-8a3d-cba2580dc420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Support'])[1]/preceding::button[2]</value>
+      <webElementGuid>b69cf0ac-c4f1-46b6-a5e6-49d35456deb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Retake Photo']/parent::*</value>
+      <webElementGuid>918955be-677f-42eb-a070-5c7bb6912eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>05f69aaf-a72f-420a-b5df-fa47d623b434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Retake Photo' or . = 'Retake Photo')]</value>
+      <webElementGuid>f3d20250-f689-40d5-9104-b05f1d6f2ea5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

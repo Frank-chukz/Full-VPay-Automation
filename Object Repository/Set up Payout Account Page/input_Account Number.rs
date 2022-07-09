@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Account Number</name>
+   <tag></tag>
+   <elementGuidId>04962cee-608c-46a7-8639-eb227dfecf84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@class='app-input undefined' and @type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2407d0d8-eff2-49be-b64f-1e9337755d1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> app-input undefined  </value>
+      <webElementGuid>d5611dbe-6f3e-46ee-b8b1-653cbde2a48c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>e71a406c-61d9-4860-9607-0a8867c29264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>new-password</value>
+      <webElementGuid>f533ce68-1442-4904-a3b5-27a57b68b952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-tabs-0-panel-Payout Accounts&quot;)/div[@class=&quot;full-height flex-vertical full-width d-flex align-center j-center&quot;]/div[@class=&quot;profile-wrapper fw400 primary-bg-color p-relative&quot;]/div[@class=&quot;input-container p-relative important-full-width fw400&quot;]/div[@class=&quot;app-input-wrapper&quot;]/div[@class=&quot;p-relative&quot;]/input[@class=&quot;app-input undefined&quot;]</value>
+      <webElementGuid>25282c89-f206-45fd-a927-9f57b5bbc7e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+      <webElementGuid>89e5a67e-c2c4-4b86-8496-b09c400abe38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-tabs-0-panel-Payout Accounts']/div/div[2]/div[4]/div/div/input</value>
+      <webElementGuid>1666ee5f-01a3-48b3-a4ac-3b3c371e62fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+      <webElementGuid>be683fdb-507b-449a-a8d5-907dfd07b9e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>73388a65-fa9c-420f-9836-bee26bc25f28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

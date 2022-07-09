@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>4d8ed186-ed96-4f01-b195-ff7c552bc5f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.no-margin.fw700.text-color.font-size-22</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@class='no-margin fw700 text-color font-size-22']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>b696fa86-ef05-4ade-971c-220a1ba87d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>no-margin fw700 text-color font-size-22</value>
+      <webElementGuid>5c7fdcaa-cbbe-4790-a98f-99ea24245498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>f2a27ae9-75d4-4216-8d42-ee9a0ff05324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;full-width dashboard-wrapper full-vh&quot;]/div[@class=&quot;p-relative fade-in dashboard-layout full-height&quot;]/div[@class=&quot;d-flex dashboard-header full-width&quot;]/h2[@class=&quot;no-margin fw700 text-color font-size-22&quot;]</value>
+      <webElementGuid>bf7ee34a-7e16-4b33-8f16-7ad433b954c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/h2</value>
+      <webElementGuid>5eea52de-0278-43d7-89bb-0474d19adceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::h2[1]</value>
+      <webElementGuid>d16b3a26-660f-4458-a48c-d95cde09243e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Referral'])[1]/following::h2[1]</value>
+      <webElementGuid>540be56c-8ad9-4f30-b6f1-372d7fb19f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₦122,244.00'])[1]/preceding::h2[1]</value>
+      <webElementGuid>18c4379d-43da-4a7b-8be4-5c7b034ddb47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₦1,049.19'])[1]/preceding::h2[1]</value>
+      <webElementGuid>440e3e86-8bb0-4395-9704-521e0bc6a4b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>4eb57154-7f4b-4c58-9f0b-b76e6191db44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>94b7ba15-f26b-4594-b41e-bc45bb24eff0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

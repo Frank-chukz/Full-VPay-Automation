@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click USSD code</name>
+   <tag></tag>
+   <elementGuidId>9998d2ed-3f94-484f-a149-09577cc5baf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.font-size-14.text-center.fw500</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@class='font-size-14 text-center fw500']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>62e0069a-79a9-4c42-8149-d603f1e7deb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-size-14 text-center fw500</value>
+      <webElementGuid>d8e11d31-bcfd-4f0e-accf-b9de1e03e530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>*BankUSSDCode*000*5037+4600014460+Amount#</value>
+      <webElementGuid>13b70870-30f1-4476-b7e9-cf7c26d47271</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;full-width dashboard-wrapper full-vh&quot;]/div[@class=&quot;p-relative fade-in dashboard-layout full-height&quot;]/div[@class=&quot;d-flex flex-vertical fade-in full-width content-wrapper&quot;]/div[@class=&quot;p-fixed full-height full-width popup&quot;]/div[@class=&quot;d-flex j-center&quot;]/div[@class=&quot;popup-content p-relative&quot;]/div[@class=&quot;d-flex flex-vertical align-center&quot;]/div[@class=&quot;d-flex align-baseline full-width&quot;]/p[@class=&quot;font-size-14 text-center fw500&quot;]</value>
+      <webElementGuid>96070d87-1949-4942-915a-0daaba154dc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[3]/div/div/div[2]/div[10]/p</value>
+      <webElementGuid>486ac459-4f8d-4531-881c-f4bfa2e3c482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='or dial'])[1]/following::p[1]</value>
+      <webElementGuid>fe773a61-0729-4b31-9e0d-052841e9786f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::p[1]</value>
+      <webElementGuid>a0110d54-aa5b-4087-9af2-043e22576186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::p[1]</value>
+      <webElementGuid>0fedde6e-447d-42e8-b591-51b25943926e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='*BankUSSDCode*000*5037+4600014460+Amount#']/parent::*</value>
+      <webElementGuid>3afd352a-2074-4022-bd49-a52182b54461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/p</value>
+      <webElementGuid>52f61460-bf3b-4825-828b-c1de9de23801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '*BankUSSDCode*000*5037+4600014460+Amount#' or . = '*BankUSSDCode*000*5037+4600014460+Amount#')]</value>
+      <webElementGuid>7faa8cd9-7ded-42f7-9cdc-9e22d4d37af4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

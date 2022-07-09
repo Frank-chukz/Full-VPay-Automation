@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Select File_custom-file-input p-absolute</name>
+   <tag></tag>
+   <elementGuidId>11fb728c-50d9-46c2-b19e-86358f77c3e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='file']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.custom-file-input.p-absolute</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bfbdb819-4a96-4ae5-a63b-08e76f6e4be8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>cc222ea4-02a3-4f1d-ab78-93f08f6b4e0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accept</name>
+      <type>Main</type>
+      <value>image/*, .pdf</value>
+      <webElementGuid>22e65bdb-f2bb-4a25-8f33-29765ad432f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-file-input p-absolute</value>
+      <webElementGuid>6558d62d-d0d7-4606-a9f3-3ca6a5769dba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;full-width dashboard-wrapper full-vh&quot;]/div[@class=&quot;p-relative fade-in dashboard-layout full-height&quot;]/div[@class=&quot;fade-in full-width content-wrapper&quot;]/div[@class=&quot;reg-container margin-auto&quot;]/div[@class=&quot;stepper-layout d-flex flex-vertical&quot;]/div[@class=&quot;form-content-stepper&quot;]/div[@class=&quot;reg-form-margin-top reg-stepper-padding border-radius5  app-padding-starter-tb form-padding-lr primary-bg-color d-flex flex-vertical align-center&quot;]/div[@class=&quot;d-flex flex-vertical full-width full-height&quot;]/div[@class=&quot;flex-one&quot;]/form[@class=&quot;account-detail&quot;]/div[@class=&quot;p-fixed full-height full-width popup&quot;]/div[@class=&quot;d-flex j-center&quot;]/div[@class=&quot;popup-content p-relative max-width-600&quot;]/div[@class=&quot;d-flex j-center full-width&quot;]/div[@class=&quot;dotted-upload&quot;]/div[@class=&quot;clickable-area d-flex p-relative align-center  full-height j-center full-width&quot;]/input[@class=&quot;custom-file-input p-absolute&quot;]</value>
+      <webElementGuid>363d16ca-3826-4f10-a3ee-d6bcd8ca003c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='file']</value>
+      <webElementGuid>1ab90e64-27d1-4fad-b913-1d899cfd7d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[2]/div/div/div/form/div[12]/div/div/div[5]/div/div/input</value>
+      <webElementGuid>41a6c33e-1ec1-4122-8441-cc4ae13101a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>3d3ca792-1a38-4267-b83f-00b3ecc7799c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'file']</value>
+      <webElementGuid>8415ba81-e320-4c24-a5c2-a495f24402a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

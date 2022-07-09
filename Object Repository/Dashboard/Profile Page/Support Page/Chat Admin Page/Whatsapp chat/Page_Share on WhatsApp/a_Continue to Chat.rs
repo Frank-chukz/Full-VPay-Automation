@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Continue to Chat</name>
+   <tag></tag>
+   <elementGuidId>f10151ff-c311-4749-a70b-bf3e2c93bd5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='action-button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#action-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a57f8374-43d9-4f95-8b14-d375ea033d3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://web.whatsapp.com/send?phone=2348028108892</value>
+      <webElementGuid>f10efb48-993e-4317-98f5-b5f1788e03bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Share on WhatsApp</value>
+      <webElementGuid>a7691481-43b2-4ae2-aa13-32fb6820ad66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>action-button</value>
+      <webElementGuid>fac30a9e-2952-499b-9056-d8e049cf64e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_9rne _9vcv _9u4i _9scb</value>
+      <webElementGuid>8ac71fb0-6c46-4755-8dfe-f07bd82e96d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue to Chat</value>
+      <webElementGuid>d15bd645-3cd7-4ae3-b271-e9ee3784fb11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action-button&quot;)</value>
+      <webElementGuid>fb009a6f-3b34-47b5-819e-b336b59415cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='action-button']</value>
+      <webElementGuid>5670349c-0b2c-4fab-9de9-d1ff126eb3ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main_block']/div/a</value>
+      <webElementGuid>3956e475-88f1-4f1e-85f8-163b2cc038a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Continue to Chat')]</value>
+      <webElementGuid>984aa29f-051f-4114-b97c-fb23028f6485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VPay Customer care'])[1]/following::a[1]</value>
+      <webElementGuid>748c5433-a3c7-4faa-b97d-b5fdbb7ecdae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get in touch'])[1]/following::a[1]</value>
+      <webElementGuid>d81c886e-5d71-41c6-9497-cdc205711741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Don', &quot;'&quot;, 't have WhatsApp yet?')])[1]/preceding::a[1]</value>
+      <webElementGuid>d7e99d5f-a506-49f7-9337-b057f7626d45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[2]/preceding::a[1]</value>
+      <webElementGuid>011501aa-6421-428a-8ef3-447e6314c2d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue to Chat']/parent::*</value>
+      <webElementGuid>6e56eafe-dcec-4e18-b54d-b0dc286d2be7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://web.whatsapp.com/send?phone=2348028108892')]</value>
+      <webElementGuid>0ddc587f-604d-4524-8fea-c1613b2f0216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>3f212f4a-a703-432a-bd2e-b59490b9e18d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://web.whatsapp.com/send?phone=2348028108892' and @title = 'Share on WhatsApp' and @id = 'action-button' and (text() = 'Continue to Chat' or . = 'Continue to Chat')]</value>
+      <webElementGuid>b18e33c0-31cc-4b3b-929c-f0ba9a904872</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

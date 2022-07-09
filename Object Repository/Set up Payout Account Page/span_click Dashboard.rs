@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_click Dashboard</name>
+   <tag></tag>
+   <elementGuidId>3bcadc80-dff3-4583-8119-dbca39eb620f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='merchant-link-title font-size-17' and contains (text(),'Dashboard')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7ade5b9b-04d2-4718-9ba1-43135d203aa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>merchant-link-title font-size-17 </value>
+      <webElementGuid>4228d235-ac3a-4783-9d9a-3781d17072e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>81e61028-50d0-4ef6-88b3-cbd64f2d8d5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;full-width dashboard-wrapper full-vh&quot;]/div[@class=&quot;no-mobile&quot;]/div[@class=&quot;p-relative d-flex merchant-nav-wrapper&quot;]/div[@class=&quot;d-flex flex-vertical j-space-between full-height&quot;]/div[@class=&quot;nav-links-wrapper&quot;]/div[4]/a[@class=&quot;merchant-link-item-wrapper fw400 d-flex align-center&quot;]/span[@class=&quot;merchant-link-title font-size-17&quot;]</value>
+      <webElementGuid>2896c8ce-1fa1-4dc0-809a-4f68fe138518</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div[4]/a/span[2]</value>
+      <webElementGuid>b3776188-6f9d-42e0-8436-427e1ed5764f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compliance'])[1]/following::span[2]</value>
+      <webElementGuid>a963489a-7e10-4abb-9620-7ac43428755d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Details'])[1]/following::span[4]</value>
+      <webElementGuid>38239f6e-66d0-4fb1-be13-155f18fd69a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cashpoint'])[1]/preceding::span[2]</value>
+      <webElementGuid>f1061719-1bc9-4e20-911e-54c22d0fa316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/preceding::span[4]</value>
+      <webElementGuid>28fc7a81-85e0-4e9d-b317-08386f227241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dashboard']/parent::*</value>
+      <webElementGuid>0b55de45-19b4-4a1f-8d65-efb1ca02a992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/span[2]</value>
+      <webElementGuid>a056986e-32c9-4eaa-81b4-a2ad7a6d3341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>fa907f53-36c4-4739-9af7-fcd0a04810da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

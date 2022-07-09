@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>email sending for suggestion</name>
+   <tag></tag>
+   <elementGuidId>5ba48ba7-aa1d-4cee-892d-11c68290220d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@class='text-color' and contains(text(),'support@vpay.africa')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b6063f18-3851-44b9-ad45-24c7e9760242</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-color</value>
+      <webElementGuid>617085b3-5f63-4b3e-bd18-e5d59baf721c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noreferrer</value>
+      <webElementGuid>c3e63cb9-7d18-4cf9-9cc7-45cc0b9da7a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>mailto: support@vpay.africa</value>
+      <webElementGuid>b0a9fed8-d7b9-4196-821c-2dedf4a02510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>support@vpay.africa</value>
+      <webElementGuid>e7747c30-ec19-4f83-bae9-536ad99ff8cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-tabs-0-panel-Support&quot;)/div[@class=&quot;full-height flex-vertical full-width d-flex align-center j-center&quot;]/div[@class=&quot;d-grid card-grid&quot;]/div[@class=&quot;p-relative lo&quot;]/div[@class=&quot;d-flex flex-vertical back-card c-pointer  align-center&quot;]/p[@class=&quot;no-margin text-center fw400 font-size-20&quot;]/a[@class=&quot;text-color&quot;]</value>
+      <webElementGuid>f10e7812-6d74-4958-86b1-0c02b2403565</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-tabs-0-panel-Support']/div/div[2]/div[3]/div[2]/p/a</value>
+      <webElementGuid>29e5e017-7b1f-4255-8d43-686d0ec410f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'support@vpay.africa')])[2]</value>
+      <webElementGuid>22490622-e909-4d0f-b7e5-5ed7833e790e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/following::a[1]</value>
+      <webElementGuid>5e4607dc-3a71-4d40-90ff-146ce6c83cf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make A Suggestion'])[1]/following::a[1]</value>
+      <webElementGuid>e514127f-a85a-4393-a8d6-965f6bfb2f6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::a[1]</value>
+      <webElementGuid>f781503a-a987-4c91-b907-00c814a37753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::a[1]</value>
+      <webElementGuid>832e597a-2ca8-41ee-ba0c-b10cb10b0de1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'mailto: support@vpay.africa')])[2]</value>
+      <webElementGuid>96286533-1c3f-4acd-857d-d0a2c557d6df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/p/a</value>
+      <webElementGuid>e8043d00-5c10-4013-a9d0-266dc6c430ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'mailto: support@vpay.africa' and (text() = 'support@vpay.africa' or . = 'support@vpay.africa')]</value>
+      <webElementGuid>8125aa71-d699-40ed-9566-1b8238b38967</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

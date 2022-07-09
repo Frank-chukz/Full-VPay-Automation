@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Capture yourseld holding id card</name>
+   <tag></tag>
+   <elementGuidId>ebbb81df-0c28-4950-9e53-a6875935e5af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@class='webcam-btn fw500']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.webcam-btn.fw500</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2a7cc588-5fa5-41c0-938e-e4d10b1cf5ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>webcam-btn fw500</value>
+      <webElementGuid>cc78c953-3641-46b9-a6f6-1a126fc45201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Capture</value>
+      <webElementGuid>0989d4df-a35c-44b5-b72f-c57fce60335c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;full-width dashboard-wrapper full-vh&quot;]/div[@class=&quot;p-relative fade-in dashboard-layout full-height&quot;]/div[@class=&quot;fade-in full-width content-wrapper&quot;]/div[@class=&quot;reg-container margin-auto&quot;]/div[@class=&quot;stepper-layout d-flex flex-vertical&quot;]/div[@class=&quot;form-content-stepper&quot;]/div[@class=&quot;reg-form-margin-top reg-stepper-padding border-radius5  app-padding-starter-tb form-padding-lr primary-bg-color d-flex flex-vertical align-center&quot;]/div[@class=&quot;d-flex flex-vertical full-width full-height&quot;]/div[@class=&quot;flex-one&quot;]/form[@class=&quot;account-detail&quot;]/div[@class=&quot;p-fixed full-height full-width popup&quot;]/div[@class=&quot;d-flex j-center&quot;]/div[@class=&quot;popup-content p-relative max-width-600&quot;]/div[8]/div[1]/div[@class=&quot;webcam-container&quot;]/div[2]/button[@class=&quot;webcam-btn fw500&quot;]</value>
+      <webElementGuid>10946725-41a0-47c6-b48e-e580a9a2a6bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[2]/div/div/div/form/div[12]/div/div/div[8]/div/div[2]/div[2]/button</value>
+      <webElementGuid>fc633780-d997-4d8b-bc2a-f01a988b96f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selfie'])[1]/following::button[1]</value>
+      <webElementGuid>ebae7bfc-25b7-4adc-8826-76b43a2cabb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compliance'])[2]/following::button[7]</value>
+      <webElementGuid>bddd1143-7e98-4949-b51a-95e9f87af8aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Support'])[1]/preceding::button[1]</value>
+      <webElementGuid>3941e588-4bad-4711-a3eb-2cca07dfbf29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[2]</value>
+      <webElementGuid>57c3702e-5fa3-49c9-8c8a-184434969e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Capture']/parent::*</value>
+      <webElementGuid>26f4820f-cb30-4d36-824b-a6667e18a8e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>64bfbb5b-16da-49f6-b934-bce2326f1e21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Capture' or . = 'Capture')]</value>
+      <webElementGuid>3197018d-e9f1-4dfe-947b-e36bfe5551a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

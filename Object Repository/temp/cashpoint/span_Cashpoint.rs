@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cashpoint</name>
+   <tag></tag>
+   <elementGuidId>e99ef4f3-c3d9-4e29-880e-bc74ad144b50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='merchant-link-title font-size-17' and contains (text(),'Cashpoint')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b41f9185-7c37-4921-b959-af481d8cd0e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>merchant-link-title font-size-17</value>
+      <webElementGuid>ad7f758b-293b-4648-8233-7bdc3c42cf3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cashpoint</value>
+      <webElementGuid>6f89606c-fa4c-435b-9d77-1d0bb9b492ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;full-width dashboard-wrapper full-vh&quot;]/div[@class=&quot;no-mobile&quot;]/div[@class=&quot;p-relative d-flex merchant-nav-wrapper&quot;]/div[@class=&quot;d-flex flex-vertical j-space-between full-height&quot;]/div[@class=&quot;nav-links-wrapper&quot;]/div[5]/div[1]/div[1]/a[@class=&quot;merchant-link-item-wrapper fw400 d-flex align-center&quot;]/span[@class=&quot;merchant-link-title font-size-17&quot;]</value>
+      <webElementGuid>97330ec2-d64a-4b2c-9b72-ccd58ce4ba67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div[5]/div/div/a/span[2]</value>
+      <webElementGuid>51bb6cf5-dc60-45fd-8ec1-7afd40de97e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::span[2]</value>
+      <webElementGuid>15ae0ec0-eec1-4955-9a19-eef551f01742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compliance'])[1]/following::span[4]</value>
+      <webElementGuid>283df954-e79c-44f8-9aeb-79480d611f02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/preceding::span[2]</value>
+      <webElementGuid>892dcdff-e4ee-4c1a-9235-72acee3f58a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Referral'])[1]/preceding::span[4]</value>
+      <webElementGuid>e76025f4-91fb-40b1-95da-e07361bd5652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cashpoint']/parent::*</value>
+      <webElementGuid>308942f4-cdaa-46c6-9ad3-8173202c932c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/a/span[2]</value>
+      <webElementGuid>3c0c0e22-4e6e-481f-a1de-e7e052133a73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cashpoint' or . = 'Cashpoint')]</value>
+      <webElementGuid>53886def-c273-4b43-9ec3-634fb57d497b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Save Beneficiary toggle 2</name>
+   <tag></tag>
+   <elementGuidId>07fccdcb-2a97-4bf6-920d-8fdf706e6b84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-switch-handle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']//div[@class='ant-switch-handle']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b4366e07-5147-4317-a34b-d09de0acf8e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-switch-handle</value>
+      <webElementGuid>6951d2a7-56e1-4346-9f7f-3678fd8329fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;full-width dashboard-wrapper full-vh&quot;]/div[@class=&quot;p-relative fade-in dashboard-layout full-height&quot;]/div[@class=&quot;d-flex flex-vertical fade-in full-width content-wrapper&quot;]/div[@class=&quot;p-fixed full-height full-width popup&quot;]/div[@class=&quot;d-flex j-center&quot;]/div[@class=&quot;popup-content p-relative&quot;]/div[@class=&quot;p-relative overflow-scroll full-height&quot;]/div[@class=&quot;full-width d-flex align-center&quot;]/button[@class=&quot;ant-switch&quot;]/div[@class=&quot;ant-switch-handle&quot;]</value>
+      <webElementGuid>7db42979-0c2f-4a16-b06d-20342c73d4ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[3]/div/div/div[5]/div[6]/button/div</value>
+      <webElementGuid>32548b05-cf1b-4f8b-a545-f8d38b53c730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button/div</value>
+      <webElementGuid>42807e68-ced9-45fe-ba77-a050c6ee3983</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

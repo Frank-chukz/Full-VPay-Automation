@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_airtime</name>
+   <tag></tag>
+   <elementGuidId>b991890b-b718-4a70-a937-72593d33026c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div[3]/div/div[3]/button[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>d836a37d-957e-46e0-b519-f775dd53cf96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-capitalize fw400 text-color</value>
+      <webElementGuid>eaa67f2f-8f8f-4d34-a72f-46ba33f8188d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>airtime</value>
+      <webElementGuid>4a7f7089-8dc0-4fdb-86e2-859ff841f069</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;full-width dashboard-wrapper full-vh&quot;]/div[@class=&quot;p-relative fade-in dashboard-layout full-height&quot;]/div[@class=&quot;d-flex flex-vertical fade-in full-width content-wrapper&quot;]/div[@class=&quot;d-flex flex-one&quot;]/div[@class=&quot;d-flex no-mobile flex-vertical width-30-p&quot;]/div[@class=&quot;height-35-p bills-container  no-mobile&quot;]/div[@class=&quot;d-flex flex-one&quot;]/button[@class=&quot;d-flex border-none border-radius5 primary-bg-color flex-one align-center j-center flex-vertical unstyled-button c-pointer&quot;]/p[@class=&quot;text-capitalize fw400 text-color&quot;]</value>
+      <webElementGuid>563eaca3-3948-421d-b83a-08a8eb0725f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div[3]/div/div[3]/button[2]/p</value>
+      <webElementGuid>7ce328ea-58cf-4b23-a8b8-888b41de6cf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='May'])[1]/following::p[5]</value>
+      <webElementGuid>478b46a8-65d2-4c6f-810a-5cbde781e46d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apr'])[1]/following::p[5]</value>
+      <webElementGuid>25920781-6977-43ca-b75a-915376c7df95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See More'])[2]/preceding::p[8]</value>
+      <webElementGuid>4e0a67d9-1319-45c9-9ac3-8bd10ac3c38c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::p[8]</value>
+      <webElementGuid>db400337-5408-4ace-89b6-cb3af6dc35f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/button[2]/p</value>
+      <webElementGuid>cb7caa51-c7c9-464b-9a6e-d53307ea7726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'airtime' or . = 'airtime')]</value>
+      <webElementGuid>f6464fcd-d8e6-428a-9124-c6c8b240f16e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

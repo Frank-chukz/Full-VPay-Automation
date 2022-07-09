@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click account number</name>
+   <tag></tag>
+   <elementGuidId>5faea38f-bad5-4acb-a6b8-13e2ffaee1a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.fw700.no-margin.text-center.font-size-20</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@class='fw700 no-margin text-center font-size-20']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>bbc906c8-fea6-40e7-9975-f46b538b8526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw700 no-margin text-center font-size-20</value>
+      <webElementGuid>cb3586ac-ba50-44e9-8a14-160db2689e9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4600014460</value>
+      <webElementGuid>4c738efa-025b-43f5-ae87-29e567c2a39f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;full-width dashboard-wrapper full-vh&quot;]/div[@class=&quot;p-relative fade-in dashboard-layout full-height&quot;]/div[@class=&quot;d-flex flex-vertical fade-in full-width content-wrapper&quot;]/div[@class=&quot;p-fixed full-height full-width popup&quot;]/div[@class=&quot;d-flex j-center&quot;]/div[@class=&quot;popup-content p-relative&quot;]/div[@class=&quot;d-flex flex-vertical align-center&quot;]/div[@class=&quot;d-flex flex-vertical align-center&quot;]/div[@class=&quot;d-flex align-center account-clip c-pointer&quot;]/p[@class=&quot;fw700 no-margin text-center font-size-20&quot;]</value>
+      <webElementGuid>480e26e6-fef0-43fe-a717-f2eb8c8f1049</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[3]/div/div/div[2]/div[4]/div[2]/p</value>
+      <webElementGuid>bb7ddf4c-c608-4c36-b13b-dbb1c48b6578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Details'])[1]/following::p[1]</value>
+      <webElementGuid>e7043a51-1185-4331-b6d4-325d79a027a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='candice@givmail.com'])[1]/following::p[1]</value>
+      <webElementGuid>bbac4aa1-ef12-4946-abe0-45f63fb4c6ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ayo Chantw'])[2]/preceding::p[1]</value>
+      <webElementGuid>2a4e75d6-edc2-460f-b499-ce3bad743581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/p</value>
+      <webElementGuid>eb01f4e1-4e02-486d-b1c7-f3720a74b362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '4600014460' or . = '4600014460')]</value>
+      <webElementGuid>f8d1d0fe-ff16-47e1-b3e1-e5ab6a56a2a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

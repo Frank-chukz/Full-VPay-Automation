@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_transfer</name>
+   <tag></tag>
+   <elementGuidId>0b1d0957-08ba-4090-895b-ad81b83b05b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'transfer' or . = 'transfer')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.height-35-p.bills-container.no-mobile > div.d-flex.flex-one > button.d-flex.border-none.border-radius5.primary-bg-color.flex-one.align-center.j-center.flex-vertical.unstyled-button.c-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[2]/div[2]/div[2]/div[3]/div[1]/div[1]/button[1]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7afe1115-4f9a-4169-8231-2a383e35f736</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex border-none border-radius5 primary-bg-color flex-one align-center j-center flex-vertical unstyled-button c-pointer</value>
+      <webElementGuid>5e82a31f-9de6-4f5a-a02d-d031916bf18c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>transfer</value>
+      <webElementGuid>8bd19a7a-82b3-4b22-8cbf-60bd0926bc88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;full-width dashboard-wrapper full-vh&quot;]/div[@class=&quot;p-relative fade-in dashboard-layout full-height&quot;]/div[@class=&quot;d-flex flex-vertical fade-in full-width content-wrapper&quot;]/div[@class=&quot;d-flex flex-one&quot;]/div[@class=&quot;d-flex no-mobile flex-vertical width-30-p&quot;]/div[@class=&quot;height-35-p bills-container  no-mobile&quot;]/div[@class=&quot;d-flex flex-one&quot;]/button[@class=&quot;d-flex border-none border-radius5 primary-bg-color flex-one align-center j-center flex-vertical unstyled-button c-pointer&quot;]</value>
+      <webElementGuid>2ff7602d-3538-4af4-80f5-77d7ee39db71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div[3]/div/div/button</value>
+      <webElementGuid>b0a7e14f-7d55-4624-a5d1-c1d6f82bc485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='May'])[1]/following::button[1]</value>
+      <webElementGuid>9963cbe2-7459-4e17-8362-ce25825d7f00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apr'])[1]/following::button[1]</value>
+      <webElementGuid>181edc27-dfcb-457d-a2c5-4a35aa69fe3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See More'])[2]/preceding::button[4]</value>
+      <webElementGuid>8c6934be-6583-47c6-9040-b4195ba3a49b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[5]</value>
+      <webElementGuid>06541068-9016-4313-a9ae-19eb0332899d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/button</value>
+      <webElementGuid>1fd5a8d5-e3a3-42a3-84fb-b3132b8b1002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'transfer' or . = 'transfer')]</value>
+      <webElementGuid>900b7957-e097-4277-b5f6-c3283b327fd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Hi, let us know if you have any questio_35ce9c</name>
+   <tag></tag>
+   <elementGuidId>4be2b2cf-bb46-484a-a52c-22ff494cb6e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.lc-idj2s4.lc-1qoq57a-enter-done</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='widget-global-c2396n6d5si']/div[2]/div/div/div/div[2]/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>aa7d3dbd-b276-4f53-9b57-7991765ebae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>waving hand</value>
+      <webElementGuid>0c00fc6d-eaef-4565-9087-e7a533cd8d05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.livechat-static.com/api/file/lc/img/rich-greetings/handwave.gif</value>
+      <webElementGuid>bbb99945-55c6-4689-bb0b-cd41af27b9c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lc-idj2s4 lc-1qoq57a-enter-done</value>
+      <webElementGuid>b8634cdc-9182-4cbf-9c3d-a10f3f824fe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widget-global-c2396n6d5si&quot;)/div[@class=&quot;lc-o3p3tk eqd5v0k0 lc-8lt43s-exit lc-8lt43s-exit-active&quot;]/div[@class=&quot;lc-1aasxu6 ek650k30&quot;]/div[@class=&quot;lc-1g9ek8d e108e6fy0&quot;]/div[@class=&quot;lc-1sowxkg efsb37y0 lc-154f0dl-enter-done&quot;]/div[@class=&quot;lc-hiddwq e1svly570&quot;]/div[@class=&quot;lc-prwldz ezxewqd1&quot;]/div[@class=&quot;lc-1467ywm ex5d4ma0&quot;]/img[@class=&quot;lc-idj2s4 lc-1qoq57a-enter-done&quot;]</value>
+      <webElementGuid>932e8bd7-794e-4286-92be-6a9285854b18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/temp/Chat Box/Page_VPay  Checkout By Bank Transfer/iframe_concat(id(, , chat-widget, , ))_chat-widget</value>
+      <webElementGuid>c1385efe-fd64-40b8-ba35-0d53acb8cd6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='widget-global-c2396n6d5si']/div[2]/div/div/div/div[2]/div/div/img</value>
+      <webElementGuid>c20d360f-bafe-4ca2-bf1f-131766845e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='waving hand']</value>
+      <webElementGuid>96aebd4d-7c01-4736-8b3d-239808851ff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>2fa817f7-7f1d-4a25-a4b6-3824fa9a596f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'waving hand' and @src = 'https://cdn.livechat-static.com/api/file/lc/img/rich-greetings/handwave.gif']</value>
+      <webElementGuid>018b5c3d-563c-4e3a-a7e3-d927ab031779</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
